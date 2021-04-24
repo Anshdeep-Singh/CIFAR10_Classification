@@ -3,10 +3,9 @@ Using a Convolutional Neural Network to classify images based on CIFAR10 dataset
 
 AUTHOR - ANSHDEEP SINGH
 
-The Folder Contains 3 files excluding Readme.txt
+The Folder Contains 2 files excluding Readme.txt
 -Testing_Model.ipynb
 -Training_Model.ipynb
--CIFAR10_.h5
 
 Libraries Required for the program to run 
 1.Numpy
@@ -25,7 +24,7 @@ NOTE: YOU MUST HAVE PYTHON INSTALLED IN YOUR SYSTEM
 2.If you want to test the model that is already saved in the the folder (CIFAR10_.h5), check 'Testing_Model.ipynb'. And while using Google Colab you need to upload the CIFAR10_.h5 file under the Files section on the left and the uploading takes a while. After the file has been uploaded you may start executing the cells sequencially.
 NOTE: ALL CELLS IN THIS FILE SHOULD BE EXECUTED SEQUENCIALLY (one after another in sequence)
 
-And If you are using Jupyter Notebook or any other editor then make sure that the CIFAR10_.h5 file is inthe same folder as the Testing_Model.ipynb file
+And If you are using Jupyter Notebook or any other editor then make sure that the CIFAR10_.h5 file is in the same folder as the Testing_Model.ipynb file
 
 ============================================= THANK YOU ===================================================
 					     
